@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Md. Abdur Rakib</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=CODING+GIF&sca_esv=59e8fb11e29c61b7&rlz=1C1PNFE_enBD1070BD1071&udm=2&biw=1536&bih=729&ei=ULolZuf1IPiW4-EPiJa8iA8&ved=0ahUKEwjn3b3x0tSFAxV4yzgGHQgLD_EQ4dUDCBA&uact=5&oq=CODING+GIF&gs_lp=Egxnd3Mtd2l6LXNlcnAiCkNPRElORyBHSUYyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESPQNUP0FWPQJcAB4AJABAJgBqQGgAdcDqgEDMC4zuAEDyAEA-AEBmAIDoALgA8ICBhAAGAgYHsICBxAAGIAEGBiYAwCIBgGSBwMwLjOgB4cN&sclient=gws-wiz-serp#imgrc=dbrfb5dvHO4gVM&imgdii=uYYa30tHbsaH2M">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raquibul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="raquibul-islam" /> </p>
 
