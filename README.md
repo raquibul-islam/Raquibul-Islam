@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software engineer from Bangladesh</h3>
 <img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raquibul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="raquibul-islam" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=raquibul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="raquibul-islam" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raquibul-islam" alt="raquibul-islam" /></a> </p>
 
