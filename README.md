@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="abcd.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raquibul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="raquibul-islam" /> </p>
 
-- 👨‍💻 All of my projects are available at [abdurrakib.me](abdurrakib.me)
+- 👨‍💻 All of my projects are available at [abdurrakib.me](https://abdurrakib.me/)
 
 - 📫 How to reach me **rakib.cse.pstu@gmail.com**
 
