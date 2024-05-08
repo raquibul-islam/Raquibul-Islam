@@ -9,7 +9,6 @@
 
 As a Web Developer at Independent Television, I have the opportunity to work in a dynamic and challenging environment. I'm part of a team that is dedicated to creating innovative solutions for the e-commerce industry. My role involves collaborating with cross-functional teams to develop and maintain various software applications that enhance the company's online platform.
 
-My passion lies in Fullstack web development, particularly using the MERN (MongoDB, Express.js, React, and Node.js) stack. I find the MERN stack to be versatile and powerful, allowing me to build robust and responsive web applications. I'm constantly honing my skills in this area, staying up-to-date with the latest trends and technologies in web development to deliver the best solutions.
 
 
 - 👨‍💻 All of my projects are available at [abdurrakib.me](https://abdurrakib.me/)
@@ -27,7 +26,14 @@ My passion lies in Fullstack web development, particularly using the MERN (Mongo
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=F75311&background=D7FF2D00&center=true&vCenter=true&width=1000&height=100&lines=Don't+Forget+to+Click+Follow+😊)](https://github.com/Raquibul-Islam)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raquibul-islam&show_icons=true&locale=en&layout=compact" alt="raquibul-islam" /></p>
+### 🔥 My GitHub Stats :
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marufalaslam&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="44%" height="100%" alt="Github STat"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=marufalaslam&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="46.7%" height="100%" alt="Github STat"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarufAlAslam&layout=compact&theme=cobalt&hide_border=true" width="25%" height="100%" alt="Github STat"/> -->
+</div>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raquibul-islam&show_icons=true&locale=en" alt="raquibul-islam" /></p>
 
