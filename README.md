@@ -17,7 +17,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=F75311&background=D7FF1D00&center=true&vCenter=true&width=1000&height=100&lines=Don't+Forget+to+Click+Follow+😊)](https://github.com/Raquibul-Islam)
 
 <hr>
-- 👨‍💻 All of my projects are available at [abdurrakib.me](https://abdurrakib.me/)
+- 👨‍💻 All of my projects are available at [abdurrakib.me]()
+
+<h3 align="center">My Portfolio :</h3>
+<div id="badges" align="center">
+  <a href="https://abdurrakib.me/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
 
 
 <h3 align="center">Languages and Tools:</h3>
