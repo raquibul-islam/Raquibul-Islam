@@ -63,11 +63,14 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquibul-islam&layout=compact&theme=cobalt&hide_border=true" width="25%" height="100%" alt="Github STat"/> -->
 </div>
 
-
+<hr>
 
 <h3 align="center">Connect with me:</h3>
 <br>
 <div id="badges" align="center">
+   <a href="https://www.gmail.com" style="text-decoration: none"  target="_blank">
+  <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png"/>
+  </a>
   <a href="https://www.linkedin.com/in/marufalaslam/" style="text-decoration: none"  target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
