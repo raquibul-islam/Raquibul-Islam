@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="abcd.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raquibul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="raquibul-islam" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=F75311&background=D7FF2D00&center=true&vCenter=true&width=1000&height=100&lines=Don't+Forget+to+Click+Follow+😊)](https://github.com/Raquibul-Islam)
+
 
 
 - 👨‍💻 All of my projects are available at [abdurrakib.me](https://abdurrakib.me/)
@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raquibul-islam&show_icons=true&locale=en" alt="raquibul-islam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raquibul-islam&" alt="raquibul-islam" /></p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=F75311&background=D7FF2D00&center=true&vCenter=true&width=1000&height=100&lines=Don't+Forget+to+Click+Follow+😊)](https://github.com/Raquibul-Islam)
