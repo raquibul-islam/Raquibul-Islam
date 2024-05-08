@@ -21,7 +21,7 @@
 <h3 align="center">Dive into my Portfolio :</h3>
 <div id="badges" align="center">
   <a href="https://abdurrakib.me/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Dive_into-my_portfolio-blue"/>
   </a>
 
 
