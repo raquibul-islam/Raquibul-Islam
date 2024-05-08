@@ -1,17 +1,19 @@
 ![logo](https://github.com/Raquibul-Islam/Raquibul-Islam/blob/main/Blue.png)
 <h1 align="center">Hi 👋, I'm Md. Abdur Rakib</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+<hr>
 <img align="right" alt="coding" width="400" src="abcd.gif">
 
 
-<hr>
+
 ### 🐼 About Me :
 
-👋 Hi, I'm Md Abdur Rakib, a computer science student with a passion for coding and problem-solving. I'm on a journey to explore the depths of software engineering, armed with skills in .NET, C#, PHP, HTML, CSS, and MySQL.
+👋 Hi, I'm Md Abdur Rakib, a computer science student with a passion for coding and problem-solving. I am on a journey to explore the depths of software engineering, armed with skills in .NET, C#, PHP, HTML, CSS, and MySQL.
 
 🚀 As a student, I'm eager to apply what I learn in the classroom to real-world projects. Whether it's building a dynamic web application or diving into database optimization, I'm always up for a challenge.
 
 💻 Dive into my GitHub repositories to see my journey as I learn, grow, and contribute to the world of technology. Let's connect and learn together!
+<hr>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=F75311&background=D7FF1D00&center=true&vCenter=true&width=1000&height=100&lines=Don't+Forget+to+Click+Follow+😊)](https://github.com/Raquibul-Islam)
 
