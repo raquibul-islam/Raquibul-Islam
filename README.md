@@ -7,7 +7,11 @@
 
 ### 🐼 About Me :
 
-As a Web Developer at Independent Television, I have the opportunity to work in a dynamic and challenging environment. I'm part of a team that is dedicated to creating innovative solutions for the e-commerce industry. My role involves collaborating with cross-functional teams to develop and maintain various software applications that enhance the company's online platform.
+👋 Hi, I'm [Your Name], a computer science student with a passion for coding and problem-solving. I'm on a journey to explore the depths of software engineering, armed with skills in .NET, C#, PHP, HTML, CSS, and MySQL.
+
+🚀 As a student, I'm eager to apply what I learn in the classroom to real-world projects. Whether it's building a dynamic web application or diving into database optimization, I'm always up for a challenge.
+
+💻 Dive into my GitHub repositories to see my journey as I learn, grow, and contribute to the world of technology. Let's connect and learn together!
 
 
 
