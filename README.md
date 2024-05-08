@@ -58,10 +58,10 @@
      </div>
 
 
-     <h3 align="center">Competitive Programming Handle :</h3>
+     <h3 align="center"> Competitive Programming Handle :</h3>
 <div id="badges" align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src=""/>
+    <img src="https://img.shields.io/badge/CLICK_HERE-blue"/>
   </a>
   
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
