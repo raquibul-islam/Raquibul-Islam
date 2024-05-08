@@ -18,10 +18,10 @@
 
 <hr>
 
-<h3 align="center">Dive into my Portfolio :</h3>
+<h3 align="center">Dive into my Portfolio to see more:</h3>
 <div id="badges" align="center">
   <a href="https://abdurrakib.me/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Dive_into-my_portfolio-blue"/>
+    <img src="https://img.shields.io/badge/CLICK_HERE-blue"/>
   </a>
 
 
