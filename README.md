@@ -5,6 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raquibul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="raquibul-islam" /> </p>
 
 
+### 🐼 About Me :
+
+As a Web Developer at Independent Television, I have the opportunity to work in a dynamic and challenging environment. I'm part of a team that is dedicated to creating innovative solutions for the e-commerce industry. My role involves collaborating with cross-functional teams to develop and maintain various software applications that enhance the company's online platform.
+
+My passion lies in Fullstack web development, particularly using the MERN (MongoDB, Express.js, React, and Node.js) stack. I find the MERN stack to be versatile and powerful, allowing me to build robust and responsive web applications. I'm constantly honing my skills in this area, staying up-to-date with the latest trends and technologies in web development to deliver the best solutions.
 
 
 - 👨‍💻 All of my projects are available at [abdurrakib.me](https://abdurrakib.me/)
