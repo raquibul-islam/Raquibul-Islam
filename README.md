@@ -17,9 +17,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=F75311&background=D7FF1D00&center=true&vCenter=true&width=1000&height=100&lines=Don't+Forget+to+Click+Follow+😊)](https://github.com/Raquibul-Islam)
 
 <hr>
-- 👨‍💻 All of my projects are available at [abdurrakib.me]()
 
-<h3 align="center">My Portfolio :</h3>
+<h3 align="center">Dive into my Portfolio :</h3>
 <div id="badges" align="center">
   <a href="https://abdurrakib.me/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -73,6 +72,11 @@
 <h3 align="center">Connect with me:</h3>
 <br>
 <div id="badges" align="center">
+
+   <a href="https://www.inam.com/captain_potatoo" style="text-decoration: none"  target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/>
+   </a>
+   
    <a href="https://www.gmail.com" style="text-decoration: none"  target="_blank">
   <img src="https://camo.githubusercontent.com/71a0f4bfcf1f2220e2b1c246ac2ee681c47ee914d1c1f0e27a0e6c9ac2e9f134/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"/>
   </a>
@@ -89,9 +93,7 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
    </a>
  
-   <a href="https://www.instagram.com/captain_potatoo" style="text-decoration: none"  target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Fiverr Badge"/>
-   </a>
+  
    <br>
 </div>
 
