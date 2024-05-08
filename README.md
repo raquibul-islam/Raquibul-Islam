@@ -2,16 +2,18 @@
 <h1 align="center">Hi 👋, I'm Md. Abdur Rakib</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="abcd.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raquibul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="raquibul-islam" /> </p>
+
 
 
 ### 🐼 About Me :
 
-👋 Hi, I'm [Your Name], a computer science student with a passion for coding and problem-solving. I'm on a journey to explore the depths of software engineering, armed with skills in .NET, C#, PHP, HTML, CSS, and MySQL.
+👋 Hi, I'm Md Abdur Rakib, a computer science student with a passion for coding and problem-solving. I'm on a journey to explore the depths of software engineering, armed with skills in .NET, C#, PHP, HTML, CSS, and MySQL.
 
 🚀 As a student, I'm eager to apply what I learn in the classroom to real-world projects. Whether it's building a dynamic web application or diving into database optimization, I'm always up for a challenge.
 
 💻 Dive into my GitHub repositories to see my journey as I learn, grow, and contribute to the world of technology. Let's connect and learn together!
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=raquibul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="raquibul-islam" /> </p>
 
 
 
