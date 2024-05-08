@@ -4,25 +4,19 @@
 <img align="right" alt="coding" width="400" src="abcd.gif">
 
 ### 🐼 About Me :
-
 👋 Hi, I'm Md Abdur Rakib, a computer science student with a passion for coding and problem-solving. I am on a journey to explore the depths of software engineering, armed with skills in .NET, C#, PHP, HTML, CSS, and MySQL.
-
 🚀 As a student, I'm eager to apply what I learn in the classroom to real-world projects. Whether it's building a dynamic web application or diving into database optimization, I'm always up for a challenge.
-
 💻 Dive into my GitHub repositories to see my journey as I learn, grow, and contribute to the world of technology. Let's connect and learn together!
 <br>
 <hr>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=F75311&background=D7EF1D00&center=true&vCenter=true&width=1000&height=100&lines=Don't+Forget+to+Click+Follow+😊)](https://github.com/Raquibul-Islam)
 
 <hr>
-
 <h3 align="center">Dive into my Portfolio to see more:</h3>
 <div id="badges" align="center">
   <a href="https://abdurrakib.me/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/CLICK_HERE-blue"/>
   </a>
-
 
 <h3 align="center">Languages and Tools That I learned :</h3>
 <div id="badges" align="center">
