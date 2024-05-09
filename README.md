@@ -8,7 +8,7 @@
 
 🚀 As a student, I'm eager to apply what I learn in the classroom to real-world projects. Whether it's building a dynamic web application or diving into database optimization, I'm always up for a challenge.
 
-💻 Dive into my GitHub repositories to see my journey as I learn, grow, and contribute to the world of technology. Let's connect and learn together!
+💻 Dive into my GitHub repositories to see my journey, grow, and contribute to the world of technology. Let's connect and learn together!
 <br>
 <hr>
 
