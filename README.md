@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/CLICK_HERE-blue"/>
   </a>
 
-<h3 align="center">Languages and Tools That I learned :</h3>
+<h3 align="center">Languages and Tools That I learned  :</h3>
 <div id="badges" align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
