@@ -14,7 +14,7 @@
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=F75311&background=D7EF1D00&center=true&vCenter=true&width=1000&height=100&lines=Don't+Forget+to+Click+Follow+😊)](https://github.com/Raquibul-Islam)
 
-<hr>
+<hr >
 
 <h3 align="center">Dive into my Portfolio to see more:</h3>
 
