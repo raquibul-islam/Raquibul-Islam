@@ -16,7 +16,7 @@
 
 <hr >
 
-<h3 align="center">Dive into my Portfolio to see more:</h3>
+<h3 align="center">Dive into my Portfolio to see more :</h3>
 
 <div id="badges" align="center">
   <a href="https://abdurrakib.me/" target="_blank" rel="noreferrer" > 
