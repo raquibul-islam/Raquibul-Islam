@@ -6,7 +6,7 @@
 ### 🐼 About Me :
 👋 Hi, I'm Md Abdur Rakib, a computer science student with a passion for coding and problem-solving. I am on a journey to explore the depths of software engineering, armed with skills in .NET, C#, PHP, HTML, CSS, and MySQL.
 
-🚀 As a student, I'm eager to apply what I learn in the classroom to real-world projects. Whether it's building a dynamic web application or diving into database optimization, I'm always up for a  challenge.
+🚀 As a student, I'm eager to apply what I learn in the classroom to real-world projects. Whether it's building a dynamic web application or diving into database optimization, I'm always up for a  challenge .
 
 💻 Dive into my GitHub repositories to see my journey as i learn, grow, and contribute to the world of technology. Let's connect and learn together!
 <br>
