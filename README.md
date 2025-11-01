@@ -3,6 +3,7 @@
 <h1 align="center">Hi, I'm Md. Abdur Rakib</h1>
 <h4 align="center"> IoT & ML Specialist | Research Enthusiast</h4>
 <img align="right" alt="coding" width="400" src="abcd.gif">
+![Visitor Count](https://komarev.com/ghpvc/?username=raquibul-islam&color=blueviolet&style=flat-square)
 
 ### 🎯 About Me:
 I leverage my technical expertise across **Backend (.NET, C#, PHP)**, **Databases (MySQL, Oracle)**, and **Web Technologies** to build practical software solutions, complemented by competitive programming experience for solving complex algorithmic challenges. My primary focus is developing healthcare applications and IoT systems that address real-world problems.
@@ -10,7 +11,7 @@ I leverage my technical expertise across **Backend (.NET, C#, PHP)**, **Database
 This hands-on development experience informs my exploration of **Machine Learning** and **Transformer Architectures**, driving my research agenda to bridge industry applications with academic innovation in medical AI and smart technology spaces.
 
 <br>
-![Visitor Count](https://komarev.com/ghpvc/?username=raquibul-islam&color=blueviolet&style=flat-square)
+
 <hr>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=F75311&background=D7EF1D00&center=true&vCenter=true&width=1000&height=100&lines=Let's+Build+The+Future+Together+🚀)](https://github.com/Raquibul-Islam)
