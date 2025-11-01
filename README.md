@@ -1,16 +1,19 @@
 ![logo](https://github.com/Raquibul-Islam/Raquibul-Islam/blob/main/unnamed.jpg)
 
 <h1 align="center">Hi, I'm Md. Abdur Rakib</h1>
+<h2 align="center">IoT & ML Specialist | Research Enthusiast</h2>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
 <img align="right" alt="coding" width="400" src="abcd.gif">
 
 ### About Me:
-I'm Md Abdur Rakib, a computer science student with a passion for coding and problem-solving. I am on a journey to explore the depths of software engineering, armed with skills in .NET, C#, PHP, HTML, CSS, and MySQL.
+I'm an aspiring academic and computer science graduate with strong interests in machine learning, transformer architectures, medical AI, IoT, and competitive programming. I'm dedicated to advancing research and developing innovative solutions to real-world challenges.
 
-As a student, I'm eager to apply what I learn in the classroom to real-world projects. Whether it's building a dynamic web application or diving into database optimization, I'm always up for a challenge.
+Armed with skills in .NET, C#, PHP, HTML, CSS, and MySQL, I've worked on multiple research projects involving IoT systems, machine learning applications, and healthcare software development. My goal is to leverage technology and data-driven approaches to create meaningful impact through interdisciplinary collaboration.
 
-Dive into my GitHub repositories to see my journey as I learn, grow, and contribute to the world of technology. Let's connect and learn together!
+As a passionate problem-solver, I enjoy applying my competitive programming experience and coding skills to build dynamic applications and explore the depths of software engineering. I'm always eager to take on new challenges that bridge the gap between academic research and practical implementation.
+
+Dive into my GitHub repositories to see my journey as I learn, grow, and contribute to the world of technology. Let's connect and innovate together!
 
 <br>
 
