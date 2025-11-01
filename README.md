@@ -2,14 +2,14 @@
 
 <div align="center">
   <h1>Hi, I'm Md. Abdur Rakib</h1>
-  <h3>🔬 IoT & ML Specialist • 🚀 Research Enthusiast</h3>
+  <h3> IoT & ML Specialist | Research Enthusiast</h3>
   <img src="https://komarev.com/ghpvc/?username=raquibul-islam&color=blueviolet&style=flat-square" alt="Visitor Count"/>
   <hr style="width: 30%; border: 0.5px solid #ccc; margin: 5px 0;">
 </div>
 
 <img align="right" alt="coding" width="400" src="abcd.gif">
 
-### 🎯 About Me:
+###  About Me:
 I leverage my technical expertise across **Backend (.NET, C#, PHP)**, **Databases (MySQL, Oracle)**, and **Web Technologies** to build practical software solutions, complemented by competitive programming experience for solving complex algorithmic challenges. My primary focus is developing healthcare applications and IoT systems that address real-world problems.
 
 This hands-on development experience informs my exploration of **Machine Learning** and **Transformer Architectures**, driving my research agenda to bridge industry applications with academic innovation in medical AI and smart technology spaces.
@@ -22,14 +22,14 @@ This hands-on development experience informs my exploration of **Machine Learnin
 
 <hr>
 
-<h3 align="center">🎨 Explore My Work</h3>
+<h3 align="center"> Explore My Work</h3>
 
 <div id="badges" align="center">
   <a href="https://raquibul-islam.github.io/MyPortFolio/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/🚀_Portfolio-FF6B6B?style=for-the-badge&logo=atom&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/_Portfolio-FF6B6B?style=for-the-badge&logo=atom&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/Raquibul-Islam?tab=repositories" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/📂_Projects-4ECDC4?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+    <img src="https://img.shields.io/badge/_Projects-4ECDC4?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
   </a>
 </div>
 
@@ -105,7 +105,7 @@ This hands-on development experience informs my exploration of **Machine Learnin
 
 <hr>
 
-<h3 align="center">💬 Let's Connect</h3>
+<h3 align="center"> Let's Connect</h3>
 <div align="center">
   <a href="https://wa.me/your_number" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
@@ -126,5 +126,5 @@ This hands-on development experience informs my exploration of **Machine Learnin
 
 <div align="center">
   
-  **⭐️ Star my repositories if you find something interesting!**
+  ** Star my repositories if you find something interesting!**
 </div>
