@@ -19,7 +19,7 @@ Dive into my GitHub repositories to see my journey as i learn, grow, and contrib
 <h3 align="center">Dive into my Portfolio to see more :</h3>
 
 <div id="badges" align="center">
-  <a href="https://portfolio.rakibulislam.tech/" target="_blank" rel="noreferrer" > 
+  <a href="https://raquibul-islam.github.io/MyPortFolio/" target="_blank" rel="noreferrer" > 
     <img src="https://img.shields.io/badge/CLICK_HERE-blue"/>
   </a>
 
