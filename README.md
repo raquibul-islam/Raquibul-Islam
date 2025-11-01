@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi, I'm Md. Abdur Rakib</h1>
 <h2 align="center">🔬 IoT & ML Specialist • 🚀 Research Enthusiast</h2>
-<h3 align="center">💻 Passionate Software Engineer from Bangladesh</h3>
-
 <img align="right" alt="coding" width="400" src="abcd.gif">
 
 ### 🎯 About Me:
