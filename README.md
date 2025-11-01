@@ -1,121 +1,135 @@
 ![logo](https://github.com/Raquibul-Islam/Raquibul-Islam/blob/main/unnamed.jpg)
 
 <h1 align="center">Hi, I'm Md. Abdur Rakib</h1>
-<h2 align="center">IoT & ML Specialist | Research Enthusiast</h2>
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+<h2 align="center">🔬 IoT & ML Specialist • 🚀 Research Enthusiast</h2>
+<h3 align="center">💻 Passionate Software Engineer from Bangladesh</h3>
 
 <img align="right" alt="coding" width="400" src="abcd.gif">
 
-### About Me:
-I'm an aspiring academic and computer science graduate with strong interests in machine learning, transformer architectures, medical AI, IoT, and competitive programming. I'm dedicated to advancing research and developing innovative solutions to real-world challenges.
+### 🎯 About Me:
+I'm a Computer Science graduate passionate about **Machine Learning**, **Transformer Architectures**, **Medical AI**, and **IoT**. I thrive on building innovative solutions that bridge academic research and real-world applications.
 
-Armed with skills in .NET, C#, PHP, HTML, CSS, and MySQL, I've worked on multiple research projects involving IoT systems, machine learning applications, and healthcare software development. My goal is to leverage technology and data-driven approaches to create meaningful impact through interdisciplinary collaboration.
+### 🛠️ Tech Stack & Skills:
+**Backend Development:** .NET, C#, PHP  
+**Databases:** MySQL, Oracle  
+**Web Technologies:** HTML, CSS  
+**Research Interests:** IoT Systems, Healthcare Applications, Competitive Programming
 
-As a passionate problem-solver, I enjoy applying my competitive programming experience and coding skills to build dynamic applications and explore the depths of software engineering. I'm always eager to take on new challenges that bridge the gap between academic research and practical implementation.
+### 🌟 What I Do:
+- 🔍 Research in ML & IoT applications
+- 💡 Develop healthcare software solutions  
+- 🏆 Competitive programming enthusiast
+- 🎯 Building data-driven solutions for real-world challenges
 
-Dive into my GitHub repositories to see my journey as I learn, grow, and contribute to the world of technology. Let's connect and innovate together!
+### 📈 My Journey:
+I've worked on multiple research projects involving IoT systems and machine learning applications. My goal is to leverage technology to create meaningful impact through interdisciplinary collaboration.
 
 <br>
 
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=F75311&background=D7EF1D00&center=true&vCenter=true&width=1000&height=100&lines=Don't+Forget+to+Click+Follow+😊)](https://github.com/Raquibul-Islam)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=F75311&background=D7EF1D00&center=true&vCenter=true&width=1000&height=100&lines=Let's+Build+The+Future+Together+🚀)](https://github.com/Raquibul-Islam)
 
 <hr>
 
-<h3 align="center">Dive into my Portfolio to see more:</h3>
+<h3 align="center">🎨 Explore My Work</h3>
 
 <div id="badges" align="center">
   <a href="https://raquibul-islam.github.io/MyPortFolio/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/CLICK_HERE-blue?style=for-the-badge" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🚀_Portfolio-FF6B6B?style=for-the-badge&logo=atom&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/Raquibul-Islam?tab=repositories" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/📂_Projects-4ECDC4?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
   </a>
 </div>
 
-<h3 align="center">Languages and Tools That I've Learned:</h3>
+<h3 align="center">🛠️ Tech Toolkit</h3>
 <div align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-plastic&logo=c&logoColor=white" alt="C"/>
   </a>
-  
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-plastic&logo=c%2B%2B&logoColor=white" alt="C++"/>
   </a> 
-  
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-plastic&logo=c-sharp&logoColor=white" alt="C#"/>
   </a> 
-  
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-plastic&logo=dotnet&logoColor=white" alt=".NET"/>
   </a>
-  
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-plastic&logo=firebase&logoColor=black" alt="Firebase"/>
   </a>
-  
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-plastic&logo=html5&logoColor=white" alt="HTML5"/>
   </a>
-  
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-plastic&logo=mysql&logoColor=white" alt="MySQL"/>
   </a>
-  
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-plastic&logo=oracle&logoColor=white" alt="Oracle"/>
   </a> 
-  
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-plastic&logo=php&logoColor=white" alt="PHP"/>
   </a> 
 </div>
 
 <br>
 
-<h3 align="center">Competitive Programming Handles:</h3>
+<h3 align="center">⚡ Coding Profiles</h3>
 <div align="center">
   <a href="https://codeforces.com/profile/your_handle" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/CodeForces-blue?style=for-the-badge" alt="CodeForces"/>
+    <img src="https://img.shields.io/badge/CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces"/>
   </a>
-  
   <a href="https://leetcode.com/your_handle" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/LeetCode-green?style=for-the-badge" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>  
-  
   <a href="https://www.codechef.com/users/your_handle" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/CodeChef-black?style=for-the-badge" alt="CodeChef"/>
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>  
-  
   <a href="https://cses.fi/user/your_handle" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/CSES-red?style=for-the-badge" alt="CSES"/>
+    <img src="https://img.shields.io/badge/CSES-00D8FF?style=for-the-badge&logo=c&logoColor=white" alt="CSES"/>
   </a> 
 </div>     
 
 <hr>
 
-## My GitHub Stats:
+## 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raquibul-islam&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="44%" height="100%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raquibul-islam&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="46.7%" height="100%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=raquibul-islam&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raquibul-islam&theme=radical&hide_border=true" width="48%" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquibul-islam&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages"/>
 </div>
 
 <hr>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">🤝 Let's Connect & Collaborate</h3>
 <div align="center">
   <a href="https://wa.me/your_number" style="text-decoration: none" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  
   <a href="https://www.youtube.com/@vmaruf" style="text-decoration: none" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  
   <a href="https://twitter.com/Ma50252" style="text-decoration: none" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  
   <a href="https://www.facebook.com/malslam/" style="text-decoration: none" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a> 
+  <a href="https://www.linkedin.com/in/your-profile" style="text-decoration: none" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  
+  ![Visitor Count](https://komarev.com/ghpvc/?username=raquibul-islam&color=blueviolet&style=flat-square)
+  
+  **⭐️ Star my repositories if you find something interesting!**
 </div>
