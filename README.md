@@ -12,7 +12,7 @@ This hands-on development experience informs my exploration of **Machine Learnin
 <br>
 
 <hr>
-
+![Visitor Count](https://komarev.com/ghpvc/?username=raquibul-islam&color=blueviolet&style=flat-square)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=F75311&background=D7EF1D00&center=true&vCenter=true&width=1000&height=100&lines=Let's+Build+The+Future+Together+🚀)](https://github.com/Raquibul-Islam)
 
 <hr>
@@ -108,9 +108,7 @@ This hands-on development experience informs my exploration of **Machine Learnin
   <a href="https://www.youtube.com/@vmaruf" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://twitter.com/Ma50252" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+ 
   <a href="https://www.facebook.com/malslam/" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/>
   </a> 
@@ -122,8 +120,6 @@ This hands-on development experience informs my exploration of **Machine Learnin
 <br>
 
 <div align="center">
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=raquibul-islam&color=blueviolet&style=flat-square)
   
   **⭐️ Star my repositories if you find something interesting!**
 </div>
