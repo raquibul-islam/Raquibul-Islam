@@ -3,8 +3,8 @@
 <div align="center">
   <h1>Hi, I'm Md. Abdur Rakib</h1>
   <h3>🔬 IoT & ML Specialist • 🚀 Research Enthusiast</h3>
-  <hr style="width: 30%; border: 0.5px solid #ccc; margin: 5px 0;">
   <img src="https://komarev.com/ghpvc/?username=raquibul-islam&color=blueviolet&style=flat-square" alt="Visitor Count"/>
+  <hr style="width: 30%; border: 0.5px solid #ccc; margin: 5px 0;">
 </div>
 
 <img align="right" alt="coding" width="400" src="abcd.gif">
