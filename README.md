@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi, I'm Md. Abdur Rakib</h1>
 <h4 align="center"> IoT & ML Specialist | Research Enthusiast</h4>
-
 <img align="right" alt="coding" width="400" src="abcd.gif">
+
 ### 🎯 About Me:
 I leverage my technical expertise across **Backend (.NET, C#, PHP)**, **Databases (MySQL, Oracle)**, and **Web Technologies** to build practical software solutions, complemented by competitive programming experience for solving complex algorithmic challenges. My primary focus is developing healthcare applications and IoT systems that address real-world problems.
 
