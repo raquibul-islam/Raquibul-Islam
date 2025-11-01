@@ -17,7 +17,9 @@ This hands-on development experience informs my exploration of **Machine Learnin
 <br>
 
 <hr>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=600&size=28&pause=1000&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=Follow+for+more+amazing+projects+⭐)](https://github.com/Raquibul-Islam)
+
 <hr>
 
 <h3 align="center">🎨 Explore My Work</h3>
