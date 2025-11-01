@@ -1,14 +1,13 @@
 ![logo](https://github.com/Raquibul-Islam/Raquibul-Islam/blob/main/unnamed.jpg)
 
 <h1 align="center">Hi, I'm Md. Abdur Rakib</h1>
-<h2 align="center">🔬 IoT & ML Specialist • 🚀 Research Enthusiast</h2>
+<h4 align="center"> IoT & ML Specialist | Research Enthusiast</h4>
 <img align="right" alt="coding" width="400" src="abcd.gif">
 
 ### 🎯 About Me:
 I leverage my technical skills in **.NET, C#, PHP, database systems, and web development** to create practical software solutions, complemented by my competitive programming background for solving complex algorithmic challenges. My primary focus is on developing healthcare applications and IoT systems that address real-world problems.
 
 This hands-on experience informs my exploration of **Machine Learning** and **Transformer Architectures**, driving my research agenda to bridge industry applications with academic innovation in the medical AI and smart technology spaces.
-
 <br>
 
 <hr>
