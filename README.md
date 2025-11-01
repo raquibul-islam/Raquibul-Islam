@@ -22,7 +22,7 @@ This hands-on development experience informs my exploration of **Machine Learnin
 
 <hr>
 
-<h3 align="center"> Explore My Work</h3>
+<h3 align="center">🎨 Explore My Work</h3>
 
 <div id="badges" align="center">
   <a href="https://raquibul-islam.github.io/MyPortFolio/" target="_blank" rel="noreferrer"> 
@@ -84,7 +84,7 @@ This hands-on development experience informs my exploration of **Machine Learnin
 
 <hr>
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 <div align="center">
   <table align="center">
     <tr>
