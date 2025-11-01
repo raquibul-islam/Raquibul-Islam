@@ -81,33 +81,40 @@ This hands-on development experience informs my exploration of **Machine Learnin
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin-bottom: 15px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=raquibul-islam&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true" width="45%" alt="GitHub Stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=raquibul-islam&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="45%" alt="GitHub Streak"/>
-  </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquibul-islam&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" width="91%" alt="Top Languages"/>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=raquibul-islam&show_icons=true&theme=vue&hide_border=true&include_all_commits=true" width="400" alt="GitHub Stats"/>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=raquibul-islam&theme=vue&hide_border=true" width="400" alt="GitHub Streak"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquibul-islam&layout=compact&theme=vue&hide_border=true" width="400" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <hr>
 
-<h3 align="center">🌐 Connect With Me</h3>
-<div align="center" style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;">
+<h3 align="center">💬 Let's Connect</h3>
+<div align="center">
   <a href="https://wa.me/your_number" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" height="30"/>
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
   <a href="https://www.youtube.com/@vmaruf" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" height="30"/>
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="https://twitter.com/Ma50252" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter" height="30"/>
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://www.facebook.com/malslam/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" height="30"/>
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/>
   </a> 
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
-  </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="30"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
