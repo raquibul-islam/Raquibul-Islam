@@ -1,8 +1,8 @@
 ![logo](https://github.com/Raquibul-Islam/Raquibul-Islam/blob/main/unnamed.jpg)
 
-<div align="center" style="margin-bottom: 20px;">
-  <h1 style="margin-bottom: 10px;">Hi, I'm Md. Abdur Rakib</h1>
-  <h4 style="margin-top: 0; color: #58A6FF;">IoT & ML Specialist | Research Enthusiast</h4>
+<div align="center">
+  <h1>Hi, I'm Md. Abdur Rakib</h1>
+  <h3>🔬 IoT & ML Specialist • 🚀 Research Enthusiast</h3>
 </div>
 
 <img align="right" alt="coding" width="400" src="abcd.gif">
