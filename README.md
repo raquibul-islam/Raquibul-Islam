@@ -118,3 +118,12 @@ This hands-on development experience informs my exploration of **Machine Learnin
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
+
+<br>
+
+<div align="center">
+  
+  ![Visitor Count](https://komarev.com/ghpvc/?username=raquibul-islam&color=blueviolet&style=flat-square)
+  
+  **⭐️ Star my repositories if you find something interesting!**
+</div>
