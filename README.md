@@ -81,40 +81,33 @@ This hands-on development experience informs my exploration of **Machine Learnin
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raquibul-islam&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raquibul-islam&theme=radical&hide_border=true" width="48%" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquibul-islam&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages"/>
+  <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin-bottom: 15px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=raquibul-islam&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true" width="45%" alt="GitHub Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=raquibul-islam&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="45%" alt="GitHub Streak"/>
+  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquibul-islam&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" width="91%" alt="Top Languages"/>
 </div>
 
 <hr>
 
-<h3 align="center">🤝 Let's Connect & Collaborate</h3>
-<div align="center">
-  <a href="https://wa.me/your_number" style="text-decoration: none" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+<h3 align="center">🌐 Connect With Me</h3>
+<div align="center" style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;">
+  <a href="https://wa.me/your_number" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" height="30"/>
   </a>
-  <a href="https://www.youtube.com/@vmaruf" style="text-decoration: none" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  <a href="https://www.youtube.com/@vmaruf" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" height="30"/>
   </a>
-  <a href="https://twitter.com/Ma50252" style="text-decoration: none" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://twitter.com/Ma50252" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter" height="30"/>
   </a>
-  <a href="https://www.facebook.com/malslam/" style="text-decoration: none" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  <a href="https://www.facebook.com/malslam/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" height="30"/>
   </a> 
-  <a href="https://www.linkedin.com/in/your-profile" style="text-decoration: none" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=raquibul-islam&color=blueviolet&style=flat-square)
-  
-  **⭐️ Star my repositories if you find something interesting!**
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="30"/>
+  </a>
 </div>
