@@ -9,7 +9,6 @@ I'm Md Abdur Rakib, a computer science student with a passion for coding and pro
 As a student, I'm eager to apply what I learn in the classroom to real-world projects. Whether it's building a dynamic web application or diving into database optimization, I'm always up for a  challenge.
 
 Dive into my GitHub repositories to see my journey as i learn, grow, and contribute to the world of technology. Let's connect and learn together!
-
 <br>
 <hr>
 
@@ -65,22 +64,17 @@ Dive into my GitHub repositories to see my journey as i learn, grow, and contrib
   
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/LeetCode-green"/>
-  </a>
-  
+  </a>  
    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/CodeChefe-black"/>
-  </a>
-  
+  </a>  
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/CSES-red"/>
-  </a>
- 
+  </a> 
  </div>     
-
 <hr>
 
-###  My GitHub Stats :
-
+My GitHub Stats :
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raquibul-islam&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="44%" height="100%" alt="Github STat"/>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=raquibul-islam&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="46.7%" height="100%" alt="Github STat"/>
