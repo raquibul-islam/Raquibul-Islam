@@ -1,4 +1,4 @@
-![logo](https://github.com/Raquibul-Islam/Raquibul-Islam/blob/main/back.png)
+![logo](https://github.com/Raquibul-Islam/Raquibul-Islam/blob/main/bg.png)
 
 <div align="center">
   <h1>Hi, I'm Md. Abdur Rakib</h1>
