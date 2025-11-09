@@ -3,7 +3,7 @@
 <div align="center">
   <h1>Hi, I'm Md. Abdur Rakib</h1>
   <h3> IoT & ML Specialist | Research Enthusiast</h3>
-  <img src="https://komarev.com/ghpvc/?username=raquibul-islam&color=blueviolet&style=flat-square" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=Md-AbdurRakib&color=blueviolet&style=flat-square" alt="Visitor Count"/>
   <hr style="width: 30%; border: 0.5px solid #ccc; margin: 5px 0;">
 </div>
 
@@ -25,10 +25,10 @@ This hands-on development experience informs my exploration of **Machine Learnin
 <h3 align="center">🎨 Explore My Work</h3>
 
 <div id="badges" align="center">
-  <a href="https://raquibul-islam.github.io/MyPortFolio/" target="_blank" rel="noreferrer"> 
+  <a href="https://Md-AbdurRakib.github.io/MyPortFolio/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/_Portfolio-FF6B6B?style=for-the-badge&logo=atom&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://github.com/Raquibul-Islam?tab=repositories" target="_blank" rel="noreferrer">
+  <a href="https://github.com/Md-AbdurRakib?tab=repositories" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/_Projects-4ECDC4?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
   </a>
 </div>
