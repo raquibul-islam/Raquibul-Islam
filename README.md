@@ -1,9 +1,9 @@
-![logo](https://github.com/Md-AbdurRakib/Md-AbdurRakib/blob/main/bg.png)
+![logo](https://github.com/Raquibul-Islam/Raquibul-Islam/blob/main/bg.png)
 
 <div align="center">
   <h1>Hi, I'm Md. Abdur Rakib</h1>
   <h3> IoT & ML Specialist | Research Enthusiast</h3>
-  <img src="https://komarev.com/ghpvc/?username=Md-AbdurRakib&color=blueviolet&style=flat-square" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=raquibul-islam&color=blueviolet&style=flat-square" alt="Visitor Count"/>
   <hr style="width: 30%; border: 0.5px solid #ccc; margin: 5px 0;">
 </div>
 
@@ -18,17 +18,17 @@ This hands-on development experience informs my exploration of **Machine Learnin
 
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=600&size=28&pause=1000&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=Follow+and+let's+make+the+future+together+🌟)](https://github.com/Md-AbdurRakib)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=600&size=28&pause=1000&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=Follow+and+let's+make+the+future+together+🌟)](https://github.com/Raquibul-Islam)
 
 <hr>
 
 <h3 align="center">🎨 Explore My Work</h3>
 
 <div id="badges" align="center">
-  <a href="https://md-abdurrakib.github.io/MyPortFolio/" target="_blank" rel="noreferrer"> 
+  <a href="https://raquibul-islam.github.io/MyPortFolio/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/_Portfolio-FF6B6B?style=for-the-badge&logo=atom&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://github.com/Md-AbdurRakib?tab=repositories" target="_blank" rel="noreferrer">
+  <a href="https://github.com/Raquibul-Islam?tab=repositories" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/_Projects-4ECDC4?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
   </a>
 </div>
@@ -89,15 +89,15 @@ This hands-on development experience informs my exploration of **Machine Learnin
   <table align="center">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Md-AbdurRakib&show_icons=true&theme=vue&hide_border=true&include_all_commits=true" width="400" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=raquibul-islam&show_icons=true&theme=vue&hide_border=true&include_all_commits=true" width="400" alt="GitHub Stats"/>
       </td>
       <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-AbdurRakib&theme=vue&hide_border=true" width="400" alt="GitHub Streak"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=raquibul-islam&theme=vue&hide_border=true" width="400" alt="GitHub Streak"/>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-AbdurRakib&layout=compact&theme=vue&hide_border=true" width="400" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquibul-islam&layout=compact&theme=vue&hide_border=true" width="400" alt="Top Languages"/>
       </td>
     </tr>
   </table>
