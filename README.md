@@ -1,4 +1,4 @@
-![logo](https://github.com/Raquibul-Islam/Raquibul-Islam/blob/main/bg.png)
+![logo](https://github.com/Md-AbdurRakib/Md-AbdurRakib/blob/main/bg.png)
 
 <div align="center">
   <h1>Hi, I'm Md. Abdur Rakib</h1>
@@ -18,7 +18,7 @@ This hands-on development experience informs my exploration of **Machine Learnin
 
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=600&size=28&pause=1000&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=Follow+and+let's+make+the+future+together+🌟)](https://github.com/Raquibul-Islam)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=600&size=28&pause=1000&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=Follow+and+let's+make+the+future+together+🌟)](https://github.com/Md-AbdurRakib)
 
 <hr>
 
@@ -113,7 +113,6 @@ This hands-on development experience informs my exploration of **Machine Learnin
   <a href="https://www.youtube.com/@vmaruf" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
- 
   <a href="https://www.facebook.com/malslam/" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/>
   </a> 
@@ -126,5 +125,5 @@ This hands-on development experience informs my exploration of **Machine Learnin
 
 <div align="center">
   
-  ** Star my repositories if you find something interesting!**
-</div> 
+  **⭐ Star my repositories if you find something interesting!**
+</div>
