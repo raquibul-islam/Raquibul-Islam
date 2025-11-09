@@ -9,17 +9,16 @@
 
 <img align="right" alt="coding" width="400" src="abcd.gif">
 
-### 🧠 About Me
-I leverage my technical expertise across **Backend (.NET, C#, PHP)**, **Databases (MySQL, Oracle)**, and **Web Technologies** to build practical software solutions, complemented by competitive programming experience for solving complex algorithmic challenges.  
+###  About Me:
+I leverage my technical expertise across **Backend (.NET, C#, PHP)**, **Databases (MySQL, Oracle)**, and **Web Technologies** to build practical software solutions, complemented by competitive programming experience for solving complex algorithmic challenges. My primary focus is developing healthcare applications and IoT systems that address real-world problems.
 
-My primary focus is developing **healthcare applications** and **IoT systems** that address real-world problems.  
-This hands-on development experience informs my exploration of **Machine Learning** and **Transformer Architectures**, driving my research agenda to bridge industry applications with academic innovation in **medical AI** and **smart technology**.
+This hands-on development experience informs my exploration of **Machine Learning** and **Transformer Architectures**, driving my research agenda to bridge industry applications with academic innovation in medical AI and smart technology spaces.
 
 <br>
 
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=Follow+and+let's+make+the+future+together+🌟)](https://github.com/Md-AbdurRakib)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=600&size=28&pause=1000&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=Follow+and+let's+make+the+future+together+🌟)](https://github.com/Md-AbdurRakib)
 
 <hr>
 
@@ -85,7 +84,7 @@ This hands-on development experience informs my exploration of **Machine Learnin
 
 <hr>
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 <div align="center">
   <table align="center">
     <tr>
@@ -106,7 +105,7 @@ This hands-on development experience informs my exploration of **Machine Learnin
 
 <hr>
 
-<h3 align="center">🤝 Let's Connect</h3>
+<h3 align="center"> Let's Connect</h3>
 <div align="center">
   <a href="https://wa.me/your_number" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
@@ -114,6 +113,7 @@ This hands-on development experience informs my exploration of **Machine Learnin
   <a href="https://www.youtube.com/@vmaruf" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
+ 
   <a href="https://www.facebook.com/malslam/" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/>
   </a> 
@@ -126,5 +126,5 @@ This hands-on development experience informs my exploration of **Machine Learnin
 
 <div align="center">
   
-  ⭐ **Star my repositories if you find something interesting!**
-</div>
+  ** Star my repositories if you find something interesting!**
+</div> 
