@@ -9,8 +9,9 @@
 
 <img align="right" alt="coding" width="400" src="abcd.gif">
 
-###  About Me:
-I leverage my technical expertise across **Backend (.NET, C#, PHP)**, **Databases (MySQL, Oracle)**, and **Web Technologies** to build practical software solutions, complemented by competitive programming experience for solving complex algorithmic challenges. My primary focus is developing healthcare applications and IoT systems that address real-world problems.
+### 💡 About Me:
+I leverage my technical expertise across **Backend (.NET, C#, PHP)**, **Databases (MySQL, Oracle)**, and **Web Technologies** to build practical software solutions, complemented by competitive programming experience for solving complex algorithmic challenges.  
+My primary focus is developing healthcare applications and IoT systems that address real-world problems.
 
 This hands-on development experience informs my exploration of **Machine Learning** and **Transformer Architectures**, driving my research agenda to bridge industry applications with academic innovation in medical AI and smart technology spaces.
 
@@ -25,7 +26,7 @@ This hands-on development experience informs my exploration of **Machine Learnin
 <h3 align="center">🎨 Explore My Work</h3>
 
 <div id="badges" align="center">
-  <a href="https://Md-AbdurRakib.github.io/MyPortFolio/" target="_blank" rel="noreferrer"> 
+  <a href="https://md-abdurrakib.github.io/MyPortFolio/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/_Portfolio-FF6B6B?style=for-the-badge&logo=atom&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/Md-AbdurRakib?tab=repositories" target="_blank" rel="noreferrer">
@@ -84,7 +85,7 @@ This hands-on development experience informs my exploration of **Machine Learnin
 
 <hr>
 
-##  GitHub Analytics
+## 📊 GitHub Analytics
 <div align="center">
   <table align="center">
     <tr>
@@ -105,18 +106,18 @@ This hands-on development experience informs my exploration of **Machine Learnin
 
 <hr>
 
-<h3 align="center"> Let's Connect</h3>
+<h3 align="center">🤝 Let's Connect</h3>
 <div align="center">
-  <a href="https://wa.me/your_number" target="_blank">
+  <a href="https://wa.me/+8801521549873" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="https://www.youtube.com/@vmaruf" target="_blank">
+  <a href="https://youtube.com/@RakibulIslam-2001" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="https://www.facebook.com/malslam/" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/>
   </a> 
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/rakibul-islam02001" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
@@ -124,6 +125,5 @@ This hands-on development experience informs my exploration of **Machine Learnin
 <br>
 
 <div align="center">
-  
-  **⭐ Star my repositories if you find something interesting!**
+  ⭐ **Star my repositories if you find something interesting!**
 </div>
