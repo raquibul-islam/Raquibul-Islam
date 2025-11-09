@@ -69,7 +69,7 @@ This hands-on development experience informs my exploration of **Machine Learnin
 
 <h3 align="center">⚡ Coding Profiles</h3>
 <div align="center">
-  <a href="https://codeforces.com/profile/your_handle" target="_blank" rel="noreferrer"> 
+  <a href="https://codeforces.com/profile/AR_The_Struggler" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces"/>
   </a>
   <a href="https://leetcode.com/your_handle" target="_blank" rel="noreferrer"> 
