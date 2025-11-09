@@ -114,7 +114,7 @@ This hands-on development experience informs my exploration of **Machine Learnin
   <a href="https://youtube.com/@RakibulIslam-2001" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://www.facebook.com/malslam/" target="_blank">
+  <a href="https://www.facebook.com/abdur.rakib066" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/>
   </a> 
   <a href="https://www.linkedin.com/in/rakibul-islam02001" target="_blank">
