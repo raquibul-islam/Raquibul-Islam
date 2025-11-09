@@ -9,7 +9,7 @@
 
 <img align="right" alt="coding" width="400" src="abcd.gif">
 
-### 💡 About Me:
+###  About Me:
 I leverage my technical expertise across **Backend (.NET, C#, PHP)**, **Databases (MySQL, Oracle)**, and **Web Technologies** to build practical software solutions, complemented by competitive programming experience for solving complex algorithmic challenges.  
 My primary focus is developing healthcare applications and IoT systems that address real-world problems.
 
@@ -125,5 +125,5 @@ This hands-on development experience informs my exploration of **Machine Learnin
 <br>
 
 <div align="center">
-  ⭐ **Star my repositories if you find something interesting!**
+   **Star my repositories if you find something interesting!**
 </div>
