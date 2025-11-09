@@ -11,7 +11,7 @@
 
 ###  About Me:
 I leverage my technical expertise across **Backend (.NET, C#, PHP)**, **Databases (MySQL, Oracle)**, and **Web Technologies** to build practical software solutions, complemented by competitive programming experience for solving complex algorithmic challenges.  
-My primary focus is on developing applications and innovative research solutions that address real-world problems.
+My focus is on developing applications and innovative research solutions that address real-world problems.
 
 This hands-on development experience informs my exploration of **Machine Learning** and **Transformer Architectures**, driving my research agenda to bridge industry applications with academic innovation in medical AI and smart technology spaces.
 
