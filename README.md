@@ -72,13 +72,13 @@ This hands-on development experience informs my exploration of **Machine Learnin
   <a href="https://codeforces.com/profile/AR_The_Struggler" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces"/>
   </a>
-  <a href="https://leetcode.com/your_handle" target="_blank" rel="noreferrer"> 
+  <a href="https://leetcode.com/u/Sazzad_75/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>  
-  <a href="https://www.codechef.com/users/your_handle" target="_blank" rel="noreferrer"> 
+  <a href="https://www.codechef.com/users/squirrell_75" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>  
-  <a href="https://cses.fi/user/your_handle" target="_blank" rel="noreferrer"> 
+  <a href="https://cses.fi/user/122262" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/CSES-00D8FF?style=for-the-badge&logo=c&logoColor=white" alt="CSES"/>
   </a> 
 </div>     
