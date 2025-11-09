@@ -89,15 +89,15 @@ This hands-on development experience informs my exploration of **Machine Learnin
   <table align="center">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=raquibul-islam&show_icons=true&theme=vue&hide_border=true&include_all_commits=true" width="400" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Md-AbdurRakib&show_icons=true&theme=vue&hide_border=true&include_all_commits=true" width="400" alt="GitHub Stats"/>
       </td>
       <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=raquibul-islam&theme=vue&hide_border=true" width="400" alt="GitHub Streak"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-AbdurRakib&theme=vue&hide_border=true" width="400" alt="GitHub Streak"/>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquibul-islam&layout=compact&theme=vue&hide_border=true" width="400" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-AbdurRakib&layout=compact&theme=vue&hide_border=true" width="400" alt="Top Languages"/>
       </td>
     </tr>
   </table>
